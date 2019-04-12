@@ -1,6 +1,6 @@
-Tutorial 1
+Tutorial init
 ==============================
-* This is git practice for tutorial-1.
+* This is git tutorial for init.
 
 Make repo
 ==============================
