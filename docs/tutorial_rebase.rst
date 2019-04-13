@@ -6,7 +6,7 @@ Rebase
 ==============================
 * Commit serveral times for testing.
 
-.. code::
+.. code:: bash
 
     $ git flow feature start tutorial_rebase
 
@@ -26,7 +26,7 @@ Rebase
 
 * show src/test.sh lines.
 
-.. code::
+.. code:: bash
 
     echo "aaaaa"
     echo "bbbbb"
@@ -35,7 +35,7 @@ Rebase
 
 * Show git log graph.
 
-.. code::
+.. code:: bash
 
     $ git log --graph
 
@@ -60,7 +60,7 @@ Rebase
 
 * Rebase!
 
-.. code::
+.. code:: bash
 
     $ git rebase -i HEAD~3
 
@@ -78,7 +78,7 @@ Rebase
 
 * Show git log graph.
 
-.. code::
+.. code:: bash
 
     $ git log --graph
 
@@ -91,5 +91,4 @@ Rebase
     |     Add "ccccc"
     |     
     |     Add "ddddd"
-
 
